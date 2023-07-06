@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+/*header part start*/
+.menu-part{
+  background-color: black;
+  color: white;
+  padding: 20px;
+  display: flex;
+  list-style: none;
+  align-items: center;
+  justify-content: space-around;
+
+}
+.logo img{
+  width: 120px;
+}
+.menu{
+  display: flex;
+  /* justify-content: space-around; */
+}
+.menu li{
+  margin: 10px;
+  padding: 10px;
+}
+/*header part end*/
